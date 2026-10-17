@@ -94,6 +94,8 @@ docker compose up -d
 ```
 
 Open **http://localhost:8080**, sign in using the administrator credentials configured in Docker Compose, and manually trigger the `Airflow_Lab1` DAG.
+User: airflow2
+pw: airflow2
 
 To stop Airflow:
 
